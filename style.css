@@ -1,0 +1,27 @@
+#carousel{
+    position:relative;
+    height:200px;
+    width:465px;
+    margin:auto;
+}
+#carousel .image{
+    position:absolute;
+    top:0;
+    left:0;
+}
+.image{
+    align-content: center;
+}
+.container{
+    display: flex;
+}
+button{
+    height: 10%;
+    border-radius: 15px;
+    margin-top: 16%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1 {
+    text-align: center;
+}
